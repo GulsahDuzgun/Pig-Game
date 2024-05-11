@@ -15,5 +15,5 @@ HTML, CSS, JavaScript for front-end development.
 Netlify for hosting the web application.
 
 <br/> 
-   <img src="../ReadME__img/06 - Pig Game/image.png" alt="Modal">
+   <img src="./ReadME__img/06 - Pig Game/image.png" alt="Pig Game">
 <br/>
